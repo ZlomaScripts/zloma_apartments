@@ -5,7 +5,7 @@ lua54 'yes'
 name 'zloma_apartments'
 author 'Zloma'
 description 'Apartments for ESX, QBCore and QBox: rent, buy, roommate, personal safe, native door locks, in-game building creator and furniture editor'
-version '0.2.0-beta.1'
+version '0.2.1-beta.1'
 license 'GPL-3.0-or-later'
 
 dependencies {

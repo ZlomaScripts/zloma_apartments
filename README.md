@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/cover.png" alt="zloma_apartments" width="100%">
+  <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.1-beta.1/cover.png" alt="zloma_apartments" width="100%">
 </p>
 
 <h1 align="center">zloma_apartments</h1>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-PUBLIC%20BETA-d69762?style=flat-square" alt="Status: public beta">
-  <img src="https://img.shields.io/badge/version-0.2.0--beta.1-303846?style=flat-square" alt="Version 0.2.0-beta.1">
+  <img src="https://img.shields.io/badge/version-0.2.1--beta.1-303846?style=flat-square" alt="Version 0.2.1-beta.1">
   <img src="https://img.shields.io/badge/license-GPL--3.0-303846?style=flat-square" alt="License: GPL-3.0">
   <img src="https://img.shields.io/badge/languages-EN%20%2F%20HR-303846?style=flat-square" alt="English and Croatian">
 </p>
@@ -37,15 +37,15 @@ inventory and target integration goes through [zloma_core](https://github.com/Zl
 actual compatibility depends on the providers configured there.
 
 <p align="center">
-  <a href="https://youtu.be/JAb7ezpvuAM"><img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/gameplay-preview.gif" alt="Gameplay preview: reception, safe, alarm cable, building editor" width="720"></a><br>
+  <a href="https://youtu.be/JAb7ezpvuAM"><img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.1-beta.1/gameplay-preview.gif" alt="Gameplay preview: reception, safe, alarm cable, building editor" width="720"></a><br>
   <sub><a href="https://youtu.be/JAb7ezpvuAM">▶ Watch the full showcase on YouTube</a></sub>
 </p>
 
 | Room browser | My apartment |
 | --- | --- |
-| <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/room-browser.png" alt="Reception room browser"> | <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/my-apartment.png" alt="Apartment dashboard"> |
+| <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.1-beta.1/room-browser.png" alt="Reception room browser"> | <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.1-beta.1/my-apartment.png" alt="Apartment dashboard"> |
 | **Security upgrades** | **Building creator** |
-| <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/security.png" alt="Security tab with lock and alarm levels"> | <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/building-creator.png" alt="In-game building creator"> |
+| <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.1-beta.1/security.png" alt="Security tab with lock and alarm levels"> | <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.1-beta.1/building-creator.png" alt="In-game building creator"> |
 
 ## Features
 

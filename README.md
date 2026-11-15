@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/cover.png" alt="zloma_apartments" width="100%">
+</p>
+
 <h1 align="center">zloma_apartments</h1>
 
 <p align="center">
@@ -31,6 +35,17 @@ For server owners, the building creator and furniture editor live in game.
 Start with Floky's WiWang Hotel preset or set up your own building. Framework,
 inventory and target integration goes through [zloma_core](https://github.com/ZlomaScripts);
 actual compatibility depends on the providers configured there.
+
+<p align="center">
+  <a href="https://youtu.be/JAb7ezpvuAM"><img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/gameplay-preview.gif" alt="Gameplay preview: reception, safe, alarm cable, building editor" width="720"></a><br>
+  <sub><a href="https://youtu.be/JAb7ezpvuAM">▶ Watch the full showcase on YouTube</a></sub>
+</p>
+
+| Room browser | My apartment |
+| --- | --- |
+| <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/room-browser.png" alt="Reception room browser"> | <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/my-apartment.png" alt="Apartment dashboard"> |
+| **Security upgrades** | **Building creator** |
+| <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/security.png" alt="Security tab with lock and alarm levels"> | <img src="https://github.com/ZlomaScripts/zloma_apartments/releases/download/v0.2.0-beta.1/building-creator.png" alt="In-game building creator"> |
 
 ## Features
 
